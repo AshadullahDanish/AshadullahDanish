@@ -14,4 +14,4 @@
 Join me on this exhilarating journey through the realms of technology and let's build the future together! 
 ✨🚀 #CodeDreamCreate
 
-More to know just the link 😉 https://ashadullahdanish.netlify.app/
+More to know just hit the link 😉 https://ashadullahdanish.netlify.app/
