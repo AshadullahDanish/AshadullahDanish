@@ -1,7 +1,8 @@
 🚀 Full Stack ML Developer | Gen AI Enthusiast | Cloud Wizard ☁️
 
 ✨ Crafting magic at the intersection of code and data. 
-    From Natural Language Processing wizardry to architecting robust ML solutions, I bring innovation to life.
+    From Natural Language Processing wizardry to architecting robust ML solutions, 
+    I bring innovation to life.
 
 🌐 Transforming ideas into scalable, cloud-powered realities. AWS/GCP/Azure explorer.
 
