@@ -1,4 +1,4 @@
-🚀 Full Stack ML Developer | NLP Enthusiast | Cloud Wizard ☁️
+🚀 Full Stack ML Developer | Gen AI Enthusiast | Cloud Wizard ☁️
 
 ✨ Crafting magic at the intersection of code and data. 
     From Natural Language Processing wizardry to architecting robust ML solutions, I bring innovation to life.
